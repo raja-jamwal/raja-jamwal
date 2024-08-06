@@ -18,7 +18,7 @@
   - Machine Learning (SciKit), Deep Learning (Keras), Computer Vision (OpenCV, YOLO) and RAG (i.e langchain)
   - Visibility (Prometheus, Grafana, micrometre), Observability (Kibana, new relic, datadog).
   - Databases/Storage/Data at Scale.
-  - Some experience in ASIC (Verilog, VHDL), and microcontroller circuitry.
+  - Some experience in ASIC (Verilog, VHDL), MultiSim, OpAmp Analog and microcontroller circuitry.
  
 - 📫 How to reach me:
   - Email.
