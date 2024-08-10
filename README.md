@@ -18,6 +18,7 @@
   - Machine Learning (SciKit), Deep Learning (Keras), Computer Vision (OpenCV, YOLO) and RAG (i.e langchain)
   - Visibility (Prometheus, Grafana, micrometre), Observability (Kibana, new relic, datadog).
   - Databases/Storage/Data at Scale.
+  - Blockchain, especially Ethereum, having built a couple of DApps on Solidity.
   - Some experience in ASIC (Verilog, VHDL), MultiSim, OpAmp Analog and microcontroller circuitry.
  
 - 📫 How to reach me:
