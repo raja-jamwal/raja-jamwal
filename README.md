@@ -1,7 +1,7 @@
 
 - Raja Jamwal
   - Polyglot, I'm super curious and passionate about learning & building things. In GitHub, you'll find my 13 years of contributions history since I moved my repos to Github in 2011 before that I used to use code.google.com.
-  - You'll find my code for diverse domains like Systems, Frontend, Backend, Infra, Machine/Deep Learning, RAG and Computer vision projects.
+  - You'll find my code for diverse domains like Systems(drivers, Win32, Qt, GTk,...), Frontend (Angular, React, HTML5, CSS3,...), Backend (Distributed systems,...), Infra (Terraform, K8, AWS, DO,...), Machine/Deep Learning (SciPy, Keras,...), RAG and Computer vision (OpenCV, Yolo,...) projects.
   - I was Senior Engineer @Slack (Founding engineer at Slack India), and I built many things you might use daily.
   - I've engineered enterprise-compliant startups from zero to scale.
   - Over a decade of expert-level experience in building distributed client-server architecture. Lately, it has focused on distributed backends operating at scale.
