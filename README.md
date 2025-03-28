@@ -9,6 +9,7 @@
 - 🌱 Currently working
   - [MyProMind.com - Master Any Subject with AI](https://www.mypromind.com)
   - [Udemy Playback Control - Featured on ChromeStore](https://chromewebstore.google.com/detail/jcmmegbigehepgkipgbbeppciahdocko?utm_source=item-share-cb)
+  - [Maeti - Match making with a spin](https://github.com/raja-jamwal/maeti-fe)
 
 - 💬 Ask me about ...
   - Java/Scala/Javascript/TypeScript/NodeJs/CSS/HackLang/Python/PHP/C/C++.
