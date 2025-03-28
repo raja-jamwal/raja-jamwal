@@ -7,7 +7,7 @@
   - Over a decade of expert-level experience in building distributed client-server architecture. Lately, it has focused on distributed backends operating at scale.
 
 - 🌱 Currently working
-  - Always building...
+  - [MyProMind.com - Master Any Subject with AI](https://www.mypromind.com)
 
 - 💬 Ask me about ...
   - Java/Scala/Javascript/TypeScript/NodeJs/CSS/HackLang/Python/PHP/C/C++.
