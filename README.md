@@ -10,6 +10,8 @@
   - [MyProMind.com - Master Any Subject with AI](https://www.mypromind.com)
   - [Udemy Playback Control - Featured on ChromeStore](https://chromewebstore.google.com/detail/jcmmegbigehepgkipgbbeppciahdocko?utm_source=item-share-cb)
   - [Maeti - Match making with a spin](https://github.com/raja-jamwal/maeti-fe)
+  - [Udemy Full Transcript](https://chromewebstore.google.com/detail/udemy-full-transcript-ext/pfomlffjejikgklcckocdfcahbjobhfo?authuser=1&hl=en)
+  - [ProMind - Chrome Extension](https://chromewebstore.google.com/detail/mypromind-master-any-subj/fmhinmpjjpppfpgonikapfobhhkknaff)
 
 - 💬 Ask me about ...
   - Java/Scala/Javascript/TypeScript/NodeJs/CSS/HackLang/Python/PHP/C/C++.
