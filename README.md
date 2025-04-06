@@ -1,30 +1,56 @@
+## 👋 Hey, I’m Raja Jamwal
 
-- Raja Jamwal
-  - Polyglot, I'm super curious and passionate about learning & building things. In GitHub, you'll find my 13 years of contributions history since I moved my repos to Github in 2011 before that I used to use code.google.com.
-  - You'll find my code for diverse domains like Systems(drivers, Win32, Qt, GTk,...), Frontend (Angular, React, HTML5, CSS3,...), Backend (Distributed systems,...), Infra (Terraform, K8, AWS, DO,...), Machine/Deep Learning (SciPy, Keras,...), RAG and Computer vision (OpenCV, Yolo,...) projects.
-  - I was Senior Engineer @Slack (Founding engineer at Slack India), and I built many things you might use daily.
-  - I've engineered enterprise-compliant startups from zero to scale.
-  - Over a decade of expert-level experience in building distributed client-server architecture. Lately, it has focused on distributed backends operating at scale.
+### 🧠 About Me
 
-- 🌱 Currently working
-  - [MyProMind.com - Master Any Subject with AI](https://www.mypromind.com)
-  - [Udemy Playback Control - Featured on ChromeStore](https://chromewebstore.google.com/detail/jcmmegbigehepgkipgbbeppciahdocko?utm_source=item-share-cb)
-  - [Maeti - Match making with a spin](https://github.com/raja-jamwal/maeti-fe)
-  - [Udemy Full Transcript](https://chromewebstore.google.com/detail/udemy-full-transcript-ext/pfomlffjejikgklcckocdfcahbjobhfo?authuser=1&hl=en)
-  - [ProMind - Chrome Extension](https://chromewebstore.google.com/detail/mypromind-master-any-subj/fmhinmpjjpppfpgonikapfobhhkknaff)
+- 🧩 **Polyglot developer** with 15+ years of code contributions, spanning systems, backend, frontend, infra, ML, and more. My coding journey began on [code.google.com](http://code.google.com), then moved to GitHub in 2011.
+- 🛠️ **Built and scaled systems** from zero to enterprise-grade: from founding engineer roles at startups to core engineering at public companies.
+- 🔐 Deeply experienced in **enterprise compliance** — GDPR, HIPAA, SoC-II, SAML, SCIM, EKM, IDR — and implementing features that ship.
+- 🧠 Strong foundation in **distributed systems**, data architectures, and high-scale backend engineering.
+- 🔍 Equally passionate about **frontend quality** and can mentor UI teams for speed and excellence.
+- 🏆 Patent at Slack (now Salesforce).
+- 🤝 Contributor to open source.
 
-- 💬 Ask me about ...
-  - Java/Scala/Javascript/TypeScript/NodeJs/CSS/HackLang/Python/PHP/C/C++.
-  - Postgres, MySQL, SQLite, Vitess, Citus, MongoDB, Redis, Pinecone.
-  - Elasticsearch.
-  - SQS, RabbitMQ, Kafka, JMS.
-  - AWS, DigitalOcean, GCP, Kubernetes, Docker, Linux, Windows.
-  - Machine Learning (SciKit), Deep Learning (Keras), Computer Vision (OpenCV, YOLO) and RAG (i.e langchain)
-  - Visibility (Prometheus, Grafana, micrometre), Observability (Kibana, new relic, datadog).
-  - Databases/Storage/Data at Scale.
-  - Blockchain, especially Ethereum, Solidity.
-  - Some experience in ASIC (Verilog, VHDL), MultiSim, OpAmp Analog and microcontroller circuitry.
- 
-- 📫 How to reach me:
-  - Email.
-  - [LinkedIn](https://www.linkedin.com/in/rajajamwal/)
+### 💼 Work Highlights
+
+#### **Apollo.io** — *Senior Software Engineer II (2024–Present)*  
+- Stack: Ruby on Rails, MongoDB, Sidekiq, NewRelic, GCP
+
+#### **ModernLoop** — *Founding Senior Engineer (2021–2024)*  
+- Stack: Java, React, GraphQL, GRPC, PostgreSQL, Redis, ElasticSearch
+
+#### **Slack (Acquired by Salesforce)** — *Senior Engineer & Founding Member, Slack India (2018–2021)*  
+I built many things which are used by millions of people every day. ⁠
+- Stack: HackLang, Java, React, Redux, GRPC, Vitess, Prometheus, Solr
+
+#### **Earlier Roles**  
+- **Astro** (Acquired by Slack): Collaborative email inbox  
+- **Mobikon**: Scalable microservices across 11 countries  
+- **DataGrids**: Consulting & product building for international clients  
+- **Amity University**: B.Tech in Electrical & Electronics (8.03 CGPA, First Div.)
+
+### 🚀 What I'm Building Now
+
+- [**MyProMind.com**](https://www.mypromind.com) – Master any subject with AI  
+- [**Udemy Playback Control**](https://chromewebstore.google.com/detail/jcmmegbigehepgkipgbbeppciahdocko?utm_source=item-share-cb) – Featured Chrome extension  
+- [**Maeti**](https://github.com/raja-jamwal/maeti-fe) – Matchmaking with a twist  
+- [**Udemy Full Transcript**](https://chromewebstore.google.com/detail/udemy-full-transcript-ext/pfomlffjejikgklcckocdfcahbjobhfo?authuser=1&hl=en)  
+- [**ProMind – Chrome Extension**](https://chromewebstore.google.com/detail/mypromind-master-any-subj/fmhinmpjjpppfpgonikapfobhhkknaff)
+
+### 💬 Ask Me About
+
+**Languages**: Java, Scala, Python, TypeScript, Node.js, HackLang, C/C++, PHP  
+**Frontend**: React, Angular, GraphQL, HTML5, CSS3  
+**Infra & DevOps**: AWS, GCP, DO, Kubernetes, Terraform, Docker, Linux, Windows  
+**Databases**: Postgres, MySQL, SQLite, Vitess, Citus, MongoDB, Redis, Pinecone  
+**Data & ML**: CDC, ETL, ElasticSearch, SciKit-learn, Keras, YOLO, OpenCV, LangChain  
+**Messaging**: Kafka, RabbitMQ, SQS, JMS  
+**Visibility/Observability**: Prometheus, Grafana, Kibana, NewRelic, Datadog  
+**Enterprise**: SCIM, SAML, EKM, IDR  
+**Other Interests**: Ethereum/Smart Contracts (Solidity), ASICs (Verilog, VHDL), Op-Amps, Microcontrollers
+
+
+### 📫 Get in Touch
+
+- 📧 Email
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajajamwal)  
+- 💻 [GitHub](https://github.com/raja-jamwal)  
