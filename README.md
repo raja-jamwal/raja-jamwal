@@ -15,7 +15,7 @@
 #### **Apollo.io** — *Senior Software Engineer II (2024–Present)*  
 - Stack: Ruby on Rails, MongoDB, Sidekiq, NewRelic, GCP
 
-#### **ModernLoop** — *Founding Senior Engineer (2021–2024)*  
+#### **ModernLoop (YC W21, Accel Company)** — *Founding Senior Engineer (2021–2024)*  
 - Stack: Java, React, GraphQL, GRPC, PostgreSQL, Redis, ElasticSearch
 
 #### **Slack (Acquired by Salesforce)** — *Senior Engineer & Founding Member, Slack India (2018–2021)*  
