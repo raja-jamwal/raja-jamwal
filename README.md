@@ -13,7 +13,8 @@
 ### 💼 Work Highlights
 
 #### **Apollo.io** — *Senior Software Engineer II (2024–Present)*  
-- Stack: Ruby on Rails, MongoDB, Sidekiq, NewRelic, GCP, Python, LangChain, LangGraph, Generative AI, SnowFlake, AirFlow.
+- Stack: Ruby on Rails, MongoDB, Sidekiq, NewRelic, GCP
+- Python, LangChain, LangGraph, Generative AI, SnowFlake, AirFlow
 
 #### **ModernLoop (YC W21, Accel Company)** — *Founding Senior Engineer (2021–2024)*  
 - Stack: Java, React, GraphQL, GRPC, PostgreSQL, Redis, ElasticSearch
