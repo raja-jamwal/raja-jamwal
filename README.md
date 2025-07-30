@@ -7,7 +7,7 @@
 - 🔐 Deeply experienced in **enterprise compliance** — GDPR, HIPAA, SoC-II, SAML, SCIM, EKM, IDR — and implementing features that ship.
 - 🧠 Strong foundation in **distributed systems**, data architectures, and high-scale backend engineering.
 - 🔍 Equally passionate about **frontend quality** and can mentor UI teams for speed and excellence.
-- 🏆 Patent at Slack (now Salesforce).
+- 🏆 Patents at Slack (now Salesforce).
 - 🤝 Contributor to open source.
 
 ### 💼 Work Highlights
