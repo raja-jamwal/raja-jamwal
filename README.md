@@ -27,7 +27,7 @@ I built many things which are used by millions of people every day. ⁠
 - **Astro** (Acquired by Slack): Collaborative email inbox  
 - **Mobikon**: Scalable microservices across 11 countries  
 - **DataGrids**: Consulting & product building for international clients  
-- **Amity University**: B.Tech in Electrical & Electronics (8.03 CGPA, First Div.)
+- **Education**: B.Tech in Electrical & Electronics (First Div.)
 
 ### 🚀 What I'm Building Now
 
