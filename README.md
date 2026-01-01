@@ -31,6 +31,8 @@ I built many things which are used by millions of people every day. ⁠
 
 ### 🚀 What I'm Building Now
 
+- [**Alloy**](https://github.com/raja-jamwal/Alloy) - A high-performance AI Gateway and Orchestration Layer written in Rust
+- [**rack-mcp**](https://github.com/raja-jamwal/rack-mcp) - Think of it giving AI assistant lighting-speed access to ruby console.
 - [**MyProMind.com**](https://www.mypromind.com) – Master any subject with AI  
 - [**Udemy Playback Control**](https://chromewebstore.google.com/detail/jcmmegbigehepgkipgbbeppciahdocko?utm_source=item-share-cb) – Featured Chrome extension  
 - [**Maeti**](https://github.com/raja-jamwal/maeti-fe) – Matchmaking with a twist  
