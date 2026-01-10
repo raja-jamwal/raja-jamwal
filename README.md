@@ -60,3 +60,4 @@ I built many things which are used by millions of people every day. ⁠
 - 📧 Email
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajajamwal)  
 - 💻 [GitHub](https://github.com/raja-jamwal)  
+- [Fullstack at Scale - Blog ](http://rajajamwal.substack.com)
