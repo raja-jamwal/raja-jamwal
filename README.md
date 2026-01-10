@@ -2,13 +2,18 @@
 
 ### 🧠 About Me
 
-- 🧩 **Polyglot developer** with 15+ years of code contributions, spanning systems, backend, frontend, infra, ML, and more. My coding journey began on [code.google.com](http://code.google.com), then moved to GitHub in 2011.
-- 🛠️ **Built and scaled systems** from zero to enterprise-grade: from founding engineer roles at startups to core engineering at public companies.
-- 🔐 Deeply experienced in **enterprise compliance** — GDPR, HIPAA, SoC-II, SAML, SCIM, EKM, IDR — and implementing features that ship.
-- 🧠 Strong foundation in **distributed systems**, data architectures, and high-scale backend engineering.
-- 🔍 Equally passionate about **frontend quality** and can mentor UI teams for speed and excellence.
-- 🏆 Patents at Slack (now Salesforce).
-- 🤝 Contributor to open source.
+Seasoned Software Engineer, Patents at Slack (now Salesforce).
+
+𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐨𝐟 𝐇𝐢𝐠𝐡-𝐒𝐜𝐚𝐥𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 & 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐋𝐞𝐯𝐞𝐫𝐚𝐠𝐞. A polyglot engineer with 𝟏𝟎+ 𝐲𝐞𝐚𝐫𝐬
+of experience spanning the 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤, 𝐟𝐫𝐨𝐦 𝐥𝐨𝐰-𝐥𝐞𝐯𝐞𝐥 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐧𝐝 𝐝𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐛𝐚𝐜𝐤𝐞𝐧𝐝𝐬 𝐭𝐨 𝐀𝐈/𝐌𝐋
+𝐨𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧. Proven track record of taking startups from 0 to 1 as a founding engineer and
+scaling enterprise platforms multi-million ARR. Expert in navigating high stakes technical
+environments, including 𝐓𝐢𝐞𝐫 𝟏 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐨𝐰𝐧𝐞𝐫𝐬𝐡𝐢𝐩 𝐚𝐭 𝐒𝐥𝐚𝐜𝐤 and engineering complex global scale solutions.
+
+𝐒𝐲𝐬𝐭𝐞𝐦 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭: Specialized in distributed client-server architectures, high-concurrency
+backends, and platform abstractions that 10x developer velocity.
+
+𝐀𝐈/𝐌𝐋 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭: Expertise in Applied AI, RAG, and Agentic workflows.
 
 ### 💼 Work Highlights
 
