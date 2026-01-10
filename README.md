@@ -30,8 +30,6 @@ I built many things which are used by millions of people every day. ⁠
 
 #### **Earlier Roles**  
 - **Astro (Acquired by Slack)**: Collaborative email inbox  
-- **Mobikon**: Scalable microservices across 11 countries  
-- **DataGrids**: Consulting & product building for international clients  
 - **Education**: B.Tech in Electrical & Electronics (First Div.)
 
 ### 🚀 What I'm Building Now
