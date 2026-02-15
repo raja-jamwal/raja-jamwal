@@ -33,7 +33,7 @@ I built many things which are used by millions of people every day. ⁠
 - **Education**: B.Tech in Electrical & Electronics (First Div.)
 
 ### 🚀 What I'm Building Now
-
+- [**Claude-Slacker**](https://github.com/raja-jamwal/claude-slacker) - Bring your local Claude Code to your Slack workspace
 - [**Alloy**](https://github.com/raja-jamwal/Alloy) - A high-performance AI Gateway and Orchestration Layer written in Rust
 - [**rack-mcp**](https://github.com/raja-jamwal/rack-mcp) - Think of it giving AI assistant lighting-speed access to ruby console.
 - [**MyProMind.com**](https://www.mypromind.com) – Master any subject with AI  
